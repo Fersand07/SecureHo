@@ -2,11 +2,7 @@ import React from 'react'
 
 /*new  add*/
 import ReactDOM from "react-dom/client";
-import {
-  createBrowserRouter,
-  RouterProvider,
-  Route,
-} from "react-router-dom";
+import { createBrowserRouter, RouterProvider, Route, } from "react-router-dom";
 import Home from './home/home';
 import Login from './login/login';
 import Register from './register/register';
