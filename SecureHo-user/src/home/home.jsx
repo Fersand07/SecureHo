@@ -10,7 +10,7 @@ function Home() {
 
                     </div>
                     <div id="inicio">
-                        <img class="img" src="./src/assets/img/logoblanco.png" alt="logo" />
+                        <img class="img" src="/img/logoblanco.png" alt="logo" />
                         <h2 id="titulo1">
                             SecureHo®
                         </h2>
@@ -47,7 +47,7 @@ function Home() {
                         </p>
                     </div>
                     <div class="logocontainer">
-                        <img class="img2" src="./src/assets/img/logoblanco.png" alt="logo" />
+                        <img class="img2" src="/src/assets/img/logoblanco.png" alt="logo" />
                         <h2 id="titulo12">
                             SecureHo®
                         </h2>

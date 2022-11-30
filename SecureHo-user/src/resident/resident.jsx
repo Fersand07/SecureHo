@@ -3,7 +3,7 @@ function Resident(){
         <>
         <section id="main1">
         <div class="bas">
-            <img class="basinicio" src="/img/baseline_account_circle_black_24dp.png" alt=""/>
+            <img class="basinicio" src="./img/baseline_account_circle_black_24dp.png" alt=""/>
         </div>
 
         <div id="visitor" class="menu-collapsed">
@@ -18,11 +18,11 @@ function Resident(){
                         }}
                         class="btns" >< img src="/img/baseline_menu_black_24dp.png" alt="baseline"/></button>
                         <div id="imgcenternav">
-                            <a href="/login/resident"><div id="f23" class="item"><img class="icon1" src="/img/home_FILL0_wght400_GRAD0_opsz48.png" alt="home"/><span>home</span></div></a>
-                            <a href="/favorites/resident"><div class="item"><img class="icon1" src="/img/favorite_FILL0_wght400_GRAD0_opsz48.png" alt="fav"/><span>favorites</span></div></a>
-                            <a href="/recently/resident"><div class="item" ><img class="icon1" src="/img/timelapse_FILL0_wght400_GRAD0_opsz48.png" alt="time"/><span>Recently</span></div></a>
+                            <a href="/login/resident"><div id="f23" class="item"><img class="icon1" src="./img/home_FILL0_wght400_GRAD0_opsz48.png" alt="home"/><span>home</span></div></a>
+                            <a href="/favorites/resident"><div class="item"><img class="icon1" src="./img/favorite_FILL0_wght400_GRAD0_opsz48.png" alt="fav"/><span>favorites</span></div></a>
+                            <a href="/recently/resident"><div class="item" ><img class="icon1" src="./img/timelapse_FILL0_wght400_GRAD0_opsz48.png" alt="time"/><span>Recently</span></div></a>
                         </div>
-                        <img class="logo2" src="/img/logooo-02.png" alt="logo"/>
+                        <img class="logo2" src="./img/logooo-02.png" alt="logo"/>
                     </div>
             </div>
 
