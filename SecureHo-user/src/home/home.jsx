@@ -47,7 +47,7 @@ function Home() {
                         </p>
                     </div>
                     <div class="logocontainer">
-                        <img class="img2" src="/src/assets/img/logoblanco.png" alt="logo" />
+                        <img class="img2" src="/img/logoblanco.png" alt="logo" />
                         <h2 id="titulo12">
                             SecureHo®
                         </h2>
