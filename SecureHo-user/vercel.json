@@ -1,0 +1,17 @@
+{
+    "rewrites":  [
+        {"source": "/", "destination": "/"},
+        {"source": "/login", "destination": "/"},
+        {"source": "/register", "destination": "/"},
+        {"source": "/login/admin", "destination": "/"},
+        {"source": "/login/resident", "destination": "/"},
+        {"source": "/login/admin/seccion", "destination": "/"},
+        {"source": "/favorites", "destination": "/"},
+        {"source": "/favorites/admin", "destination": "/"},
+        {"source": "/favorites/resident", "destination": "/"},
+        {"source": "/recently", "destination": "/"},
+        {"source": "/recently/admin", "destination": "/"},
+        {"source": "/recently/resident", "destination": "/"},
+        {"source": "/login/admin/seccion/database", "destination": "/"}
+      ]
+}
